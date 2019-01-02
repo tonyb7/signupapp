@@ -1,3 +1,3 @@
 Sign-up App
 ====================
-Winter Break Project by Wesley Chen, Tony Bai, and Wenyu Jin.
+Winter Break Project by Wesley Chen, and Tony Bai.
